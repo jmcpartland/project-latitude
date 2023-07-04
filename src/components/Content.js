@@ -4,6 +4,6 @@ function Content() {
   return (
     <content>Content</content>
     )
-}
+} 
 
 export default Content
